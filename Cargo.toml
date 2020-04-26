@@ -1,0 +1,11 @@
+[package]
+name = "rust-oauth-rocket"
+version = "0.1.0"
+authors = ["Daniel Bank <daniel.p.bank@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+oauth2 = "3.0.0-alpha"
+url = "2.1"
